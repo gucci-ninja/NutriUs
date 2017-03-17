@@ -25,7 +25,15 @@ for i in range(len(ingredients)):
 print(len(ingredients_unique))
 
 #with open("Unique_Ingredients", 'wb') as outfile:
- #   json.dump(ingredients_unique, outfile)
+#   json.dump(ingredients_unique, outfile)
+
+
+target = open("UniqueIngredients.txt", 'w')
+for i in range(len(ingredients_unique)):
+    target.write(ingredients_unique[i])
+    target.write("\n")
+
+target.close()
 
 
 
