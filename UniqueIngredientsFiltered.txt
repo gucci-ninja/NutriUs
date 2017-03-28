@@ -495,7 +495,7 @@ tzatziki
 cooked quinoa
 baby spinach
 greek yogurt
-Country Crock® Spread
+Country Crock Spread
 panko breadcrumbs
 cooked white rice
 muscovado sugar
@@ -565,7 +565,7 @@ ham hock
 cider vinegar
 dry mustard
 basil dried leaves
-Pillsbury™ Refrigerated Crescent Dinner Rolls
+Refrigerated Crescent Dinner Rolls
 tomato sauce
 shredded Italian cheese
 sliced almonds
@@ -1115,7 +1115,7 @@ slaw
 part-skim mozzarella
 coffee granules
 caramel sauce
-knorr shrimp flavor bouillon cube
+shrimp flavor bouillon cube
 hominy
 dri oregano leaves, crush
 uncook medium shrimp, peel and devein
@@ -1193,7 +1193,7 @@ perilla
 balm
 pickled carrots
 cocoa powder
-OREO® Cookies
+OREO Cookies
 chocolate shavings
 instant espresso powder
 chocolate sandwich cookies
@@ -1332,7 +1332,7 @@ corn flour
 chinese parsley
 crimini mushrooms
 queso blanco
-knorr reduc sodium chicken flavor bouillon
+reduc sodium chicken flavor bouillon
 whole peel tomatoes, undrain and chop
 shredded carrots
 beaten eggs
@@ -1370,7 +1370,7 @@ shredded cheese
 squirt
 vegetarian refried beans
 safflower
-Red Gold® diced tomatoes
+diced tomatoes
 vegetable juice
 organic vegetable broth
 plain low-fat yogurt
@@ -1417,7 +1417,7 @@ Boston lettuce
 asian fish sauce
 beef liver
 pea shoots
-TACO BELL® Thick & Chunky Medium Salsa
+Thick & Chunky Medium Salsa
 KRAFT Mexican Style Shredded Four Cheese with a TOUCH OF PHILADELPHIA
 Taco Bell Taco Seasoning Mix
 banana peppers
@@ -1550,9 +1550,9 @@ dry sherry
 quick oats
 Silk Original Soymilk
 lemon slices
-Bertolli® Alfredo Sauce
+Alfredo Sauce
 finely chopped fresh parsley
-Bertolli® Classico Olive Oil
+Classico Olive Oil
 tahini paste
 unsalted creamy peanut butter
 low-fat sour cream
@@ -1654,8 +1654,8 @@ single crust pie
 shredded colby
 Madeira
 chicken breast strips
-Old El Paso Flour Tortillas
-Old El Paso™ refried beans
+Flour Tortillas
+refried beans
 egg roll wrappers
 swiss chard
 collard greens
@@ -2276,7 +2276,7 @@ fire roasted diced tomatoes
 smoked turkey sausage
 Elmlea single
 Flora Cuisine
-Knorr Chicken Stock Pots
+Chicken Stock Pots
 tasso
 sardines
 speck
@@ -2294,8 +2294,8 @@ apple juice concentrate
 cajun seasoning mix
 reduced fat firm tofu
 frozen peas and carrots
-Knorr® Chicken Flavor Rice Sides™
-I Can't Believe It's Not Butter!® Spread
+Chicken Flavor Rice Sides™
+I Can't Believe It's Not Butter! Spread
 hoagie rolls
 roast beef fat
 chopped hazelnuts
@@ -2367,7 +2367,7 @@ instant banana cream pudding
 cool whip
 white flour
 canola oil cooking spray
-Sargento® Traditional Cut Shredded 4 Cheese Mexican
+Traditional Cut Shredded 4 Cheese Mexican
 shiso
 french rolls
 italian salad dressing mix
@@ -2647,15 +2647,15 @@ fresh angel hair
 chopped nuts
 dried fruit
 superfine sugar
-knorr homestyl stock   chicken
+homestyle stock   chicken
 split black lentils
 apricot jam
 vanilla essence
 roasted hazelnuts
-Lipton® Cup Size Tea Bags
+Cup Size Tea Bags
 european cucumber
 leaf lettuce
-Frank's® RedHot® Original Cayenne Pepper Sauce
+Cayenne Pepper Sauce
 nonfat ricotta cheese
 italian chicken sausage
 bone in skin on chicken thigh
@@ -2691,7 +2691,7 @@ guajillo chile powder
 frozen chopped spinach, thawed and squeezed dry
 mortadella
 dried dillweed
-TACO BELL® Thick & Chunky Mild Salsa
+Thick & Chunky Mild Salsa
 KRAFT Classic Ranch Dressing
 Knudsen Sour Cream
 chicken leg quarters
@@ -2756,7 +2756,7 @@ ground fennel
 kale leaves
 graham cracker crumbs
 white cannellini beans
-Wish-Bone® Robusto Italian Dressing
+Robusto Italian Dressing
 merguez
 dandelion greens
 mulato chiles
@@ -2776,7 +2776,7 @@ boneless beef sirloin steak
 fat-free mayonnaise
 skinless boneless duck breast halves
 boneless chicken breast halves
-Hidden Valley® Original Ranch Salad® Dressing & Seasoning Mix
+Ranch Salad Dressing & Seasoning Mix
 Mountain High Yoghurt
 cubed pork
 roux
@@ -2836,8 +2836,8 @@ chicken bones
 seafood seasoning
 soft sandwich rolls
 matzo meal
-Old El Paso™ taco seasoning mix
-Old El Paso™ chopped green chiles
+taco seasoning mix
+chopped green chiles
 plums
 reduced fat mozzarella
 rome apples
@@ -2976,7 +2976,7 @@ vanilla bean paste
 grated pecorino
 cured pork
 double-acting baking powder
-Gold Medal All Purpose Flour
+All Purpose Flour
 manicotti pasta
 pink peppercorns
 pan drippings
@@ -3014,7 +3014,7 @@ firm silken tofu
 low sodium teriyaki sauce
 sea bass
 vienna sausage
-knorr chicken flavor bouillon
+chicken flavor bouillon
 top loin
 Morton Salt
 Hellmann's® Real Mayonnaise
@@ -3398,7 +3398,7 @@ Best Foods Mayonnaise Dressing with Extra Virgin Olive Oil
 phyllo sheets
 reduced sodium vegetable juice
 reduced sodium tomato juice
-Knorr® Fiesta Sides Spanish Rice
+Fiesta Sides Spanish Rice
 cooked seafood
 small pasta
 mo hanh
@@ -3568,11 +3568,11 @@ chaurice
 McCormick Chili Powder
 almond liqueur
 candy sprinkles
-Sargento® Traditional Cut Shredded Extra Sharp Cheddar Cheese
+Traditional Cut Shredded Extra Sharp Cheddar Cheese
 gluten free cornmeal
 xanthan gum
 soya bean
-knorr chipotl minicub
+chipotle minicub
 dinner rolls
 eye of round roast
 horseradish sauce
@@ -3740,7 +3740,7 @@ chocolate sauce
 licorice
 diet orange soda
 Domaine de Canton Ginger Liqueur
-Sargento® Artisan Blends® Shredded Whole Milk Mozzarella Cheese
+Shredded Whole Milk Mozzarella Cheese
 tawny port
 seedless green grape
 golden caster sugar
@@ -3928,7 +3928,7 @@ langoustines
 sweet potato squash
 dill pickle spear
 disco empanada frozen
-Knorr® Beef flavored Bouillon Cube
+Beef flavored Bouillon Cube
 opal basil
 powdered buttermilk
 herb sauce
@@ -4174,7 +4174,7 @@ tatsoi
 medium cheddar cheese
 zinfandel
 kochujang
-Knorr® Fiesta Sides™ - Mexican Rice
+Fiesta Sides - Mexican Rice
 pickled okra
 spiced pecans
 unbleached flour
