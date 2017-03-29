@@ -65,6 +65,7 @@
  */
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 import edu.princeton.cs.algs4.*;
@@ -174,6 +175,24 @@ public class SymbolGraph {
         if (v < 0 || v >= V)
             throw new IllegalArgumentException("vertex " + v + " is not between 0 and " + (V-1));
     }
+    
+    public static ArrayList<String> search(String[] userlist, SymbolGraph sg) {
+    	
+    	Graph graph = sg.graph();
+    	ArrayList<String> potential_recipes = new ArrayList<String>();
+    	for (int i = 0; i < userlist.length; i++) {
+        	if (sg.contains(userlist[i])){
+        		for (int x : graph.adj(sg.indexOf(userlist[i]))) {
+        			//System.out.println(sg.nameOf(x));
+        			if (!potential_recipes.contains(sg.nameOf(x)))
+        				potential_recipes.add(sg.nameOf(x));
+        		}
+        	}
+    	}
+
+    	return potential_recipes;
+    }
+    
 
 
     /**
@@ -183,41 +202,37 @@ public class SymbolGraph {
      * @throws FileNotFoundException 
      */
     public static void main(String[] args) throws FileNotFoundException {
-    	String delimiter = ",";
-    	String filename = "recipes.txt";
-    	SymbolGraph sg = new SymbolGraph(filename, delimiter);
-    	Graph g = sg.graph();
-    	Scanner in = new Scanner(new FileReader(filename));
-    	while(in.hasNext()) {
-    		String line = in.next();
-    		if (sg.contains(line)) {
-    			int s = sg.indexOf(line);
-    			for (int v: g.adj(s)) {
-    				System.out.println("   " + sg.nameOf(v));
-    			}
-    		}
-    		else {
-    			System.out.println("Input does not contain "+ line);
-    		}
-    	}
     	
-   
-    	/**
-        String filename  = args[0];
-        String delimiter = args[1];
+    	int count = 0;
+        String filename  = "../SG_Input2.txt";
+        String delimiter = ",";
+        System.out.println("About to make symbol graph");
         SymbolGraph sg = new SymbolGraph(filename, delimiter);
-        Graph graph = sg.graph();
-        while (StdIn.hasNextLine()) {
-            String source = StdIn.readLine();
-            if (sg.contains(source)) {
-                int s = sg.index(source);
-                for (int v : graph.adj(s)) {
-                    StdOut.println("   " + sg.name(v));
-                }
-            }
-            else {
-                StdOut.println("input not contain '" + source + "'");
-            }
-        }**/
+
+        // User List
+        String[] userlist = {"pinto beans", "allpurpose flour"};
+        
+        
+        // Potential recipes
+        ArrayList<String> out = search(userlist, sg);
+     
+        // Print potential recipes
+        for (int i = 0; i < out.size(); i++) {
+        	System.out.println(out.get(i));
+        }
+
+       
+       // boolean x = sg.contains("34196");
+        // Search, look through graph, throw each list in the hash method
+        // for (int i = 0; i < userlist.length; i++)
+        // if sg.contains(userlist[i])
+        // return recipes with userlist[i]
+        // 
+        
+       // System.out.println(graph.toString());
+        //System.out.println(graph.adj(14435).iterator().next());
+        //System.out.println(sg.nameOf(12544));
+        //System.out.println(sg.indexOf("http://allrecipes.com/recipe/68429/bodega-bay-cioppino/"));
+ 
     }
 }

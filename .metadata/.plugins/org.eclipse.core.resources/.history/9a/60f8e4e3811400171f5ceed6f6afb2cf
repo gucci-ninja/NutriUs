@@ -1,0 +1,16 @@
+
+
+public class RecipeClient {
+
+	private static final String BASE_URL = "http://api.yummly.com/v1/api/";
+	
+	private String id;
+	private String key;
+	
+	public RecipeClient(String id1, String key1) {
+		id = id1;
+		key = key1;
+	}
+	
+	public Recipe
+}
