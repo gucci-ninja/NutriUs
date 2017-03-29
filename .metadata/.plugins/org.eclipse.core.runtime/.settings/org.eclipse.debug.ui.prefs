@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+=\=\=\=\=\=\=
+<<<<<<<=HEAD
+>>>>>>>=ee8f31f51bcd2c32502c0a8315ac8c5cfb123655
 eclipse.preferences.version=1
 org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<launchPerspectives/>\r\n
+preferredDetailPanes=DefaultDetailPane\:DefaultDetailPane|
 preferredTargets=default\:default|
-=======
-eclipse.preferences.version=1
-preferredTargets=default\:default|
->>>>>>> ee8f31f51bcd2c32502c0a8315ac8c5cfb123655

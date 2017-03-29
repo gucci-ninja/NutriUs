@@ -207,7 +207,7 @@ public class SymbolGraph {
      * @throws FileNotFoundException 
      */
     public static void main(String[] args) throws FileNotFoundException {
-    	/*
+    	
     	int count = 0;
         String filename  = "../SG_Input2.txt";
         String delimiter = ",";
@@ -238,6 +238,6 @@ public class SymbolGraph {
         //System.out.println(graph.adj(14435).iterator().next());
         //System.out.println(sg.nameOf(12544));
         //System.out.println(sg.indexOf("http://allrecipes.com/recipe/68429/bodega-bay-cioppino/"));
- */
+ 
     }
 }
