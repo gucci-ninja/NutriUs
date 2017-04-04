@@ -1,0 +1,25 @@
+package com.example.model;
+
+
+public class BeerExpert {
+	
+
+	public String[] getBrands(String colour) {
+		String[] brands = new String[2];
+		if(colour.equals("amber")) {
+			brands[0] = "Jack Amber";
+			brands[1] = "red mose";
+		}
+		else {
+			brands[0] = "ali palil ai";
+			brands[1] = "gout stou";
+		}
+		return brands;
+	}
+	
+	/*public static void main(String[] args) {
+		String colour = "amber";
+		List<String> brand = new BeerExpert().getBrands(colour);
+		System.out.println(brand.get(0));
+	}*/
+}
